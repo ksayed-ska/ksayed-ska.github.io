@@ -1,0 +1,11 @@
+.navbar-sticky {
+    background-color: #0d0d0d;
+    opacity: 0.9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.header {
+    background: #151515 url("../images/bg2.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
